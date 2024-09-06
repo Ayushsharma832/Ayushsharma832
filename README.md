@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Md0y4NZFENIS2EyjLQd64EQC0jbcCwg/view?usp=sharing](https://drive.google.com/file/d/13Md0y4NZFENIS2EyjLQd64EQC0jbcCwg/view?usp=sharing)
 
-- ⚡ Fun fact **I'm on a data-driven journey, unraveling mysteries and crafting insights in the world of data science.Storyteller eager to learn and share.**
+- ⚡ Fun fact **I'm on a data-driven journey, unraveling mysteries and crafting insights in the world of data science. Storyteller eager to learn and share.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
